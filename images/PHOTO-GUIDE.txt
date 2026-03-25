@@ -1,0 +1,18 @@
+POMAA'S CREATION — Photo Guide
+================================
+Save your photos into this "images" folder with these exact filenames:
+
+1. dress-beaded-gown.jpg       → The white dress with green crystal beading (on mannequin)
+2. bag-multicolor-clutch.jpg   → The multicolour crystal clutch bag with gold chain
+3. bag-orange.jpg              → The orange beaded crossbody bag with silver chain
+4. bag-maroon.jpg              → The large dark maroon beaded tote bag
+5. fascinator-gold.jpg         → The gold flower fascinator with veil and earrings
+6. necklace-turquoise.jpg      → The turquoise and gold beaded necklace (coiled)
+7. necklace-yellow-green.jpg   → The yellow and green beaded necklace (coiled)
+8. bracelet-brown.jpg          → The two brown stone bracelets with heart charms
+9. bracelet-african-name.jpg   → The African bead bracelets with "NAA LAMILEY" name plate
+
+TIPS:
+- Photos can be JPG or PNG (just keep the .jpg extension in the filename)
+- The website will automatically show your photo once the file is in this folder
+- After adding all photos, run: git add . && git commit -m "Add product photos" && git push
